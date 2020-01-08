@@ -7,7 +7,8 @@
         "2c10bebc-2b97-4381-98df-36647a94aef7",
         "30f0ad95-dbb0-4112-bb14-6e6b5b59dd90",
         "9afad183-e947-465d-a104-3dda476eb581",
-        "75a33c11-e693-432b-8fc5-8e6770edbec9"
+        "75a33c11-e693-432b-8fc5-8e6770edbec9",
+        "1c968ea3-b71d-4117-ac05-861a2eba1a3f"
     ],
     "filterType": "GMObject",
     "folderName": "oresGame",
