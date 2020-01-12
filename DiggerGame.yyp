@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "29ef3ff6-ef03-4c84-8cb2-8f6f78afdb82",
+            "Value": {
+                "id": "794d86d3-16f9-4a53-b636-85dd470fc40f",
+                "resourcePath": "rooms\\rLevel4\\rLevel4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2bb6d98d-e4a2-40bd-b7f9-2839c09794d5",
+            "Value": {
+                "id": "b0d56cfd-b469-44fd-b2b3-05c448fcad29",
+                "resourcePath": "objects\\oElevDown\\oElevDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2c10bebc-2b97-4381-98df-36647a94aef7",
             "Value": {
                 "id": "8d38c68c-1ff4-4d8f-bed4-4b0628e1e1f1",
@@ -196,6 +212,14 @@
                 "id": "9a4b3dcc-a258-4970-8d26-f4c765642a29",
                 "resourcePath": "sprites\\sEbonite\\sEbonite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5364c868-8379-4e88-b5ce-632e1402a8a8",
+            "Value": {
+                "id": "7cbaf82f-9f30-4fd3-ab5e-fc16d6fe12c0",
+                "resourcePath": "objects\\oLevel4Demo\\oLevel4Demo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -351,6 +375,14 @@
             }
         },
         {
+            "Key": "9e31f2c7-5a50-4aa2-bd20-70bb5cd11d0b",
+            "Value": {
+                "id": "1aaf4ded-db17-4d7a-8e74-1635a28aa9d1",
+                "resourcePath": "sprites\\sLevel4\\sLevel4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9fcc9a80-7f88-40b3-972a-ba6b99cd7d93",
             "Value": {
                 "id": "c53682c5-6840-4f70-9e88-88930b02253e",
@@ -396,6 +428,14 @@
                 "id": "ed8f124f-099e-4432-9445-9af7ee9afe52",
                 "resourcePath": "views\\b15745de-e113-427e-945a-4a9775507201.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b15f4db2-d451-4440-ad15-18cd14e9dd60",
+            "Value": {
+                "id": "7f790f6e-3f58-43c8-a2ba-9da09cf9aaf0",
+                "resourcePath": "sprites\\sElDown\\sElDown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
